@@ -5,7 +5,7 @@
   "includeForks": true,
   "hostRules": [
     {
-      "matchHost": "api.github.com",
+      "matchHost": "https://api.github.com/graphql",
       "concurrentRequestLimit": 5
     }
   ],
