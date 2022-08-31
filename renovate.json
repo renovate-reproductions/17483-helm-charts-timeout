@@ -4,12 +4,11 @@
   "assignees": [],
   "includeForks": true,
   "hostRules": [
-      {
-        "matchHost": "api.github.com",
-        "concurrentRequestLimit": 5
-      }
-    ]
-  },
+    {
+      "matchHost": "api.github.com",
+      "concurrentRequestLimit": 5
+    }
+  ],
   "regexManagers": [
     {
       "description": "Update renovate docker image references",
